@@ -1,0 +1,329 @@
+/* ⚡ ULTRA-PERFORMANCE CSS - BLAZING FAST 60+ FPS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🚀 MAXIMUM PERFORMANCE OPTIMIZATIONS */
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
+}
+
+html {
+  scroll-behavior: auto !important; /* INSTANT scroll - no smooth lag */
+  overflow-x: hidden;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  background: #000000;
+  color: #ffffff;
+  overflow-x: hidden;
+  height: 100%;
+  /* Hardware acceleration for smooth rendering */
+  will-change: scroll-position;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+#root {
+  height: 100%;
+  transform: translateZ(0);
+}
+
+/* ⚡ ULTRA-FAST ANIMATIONS - OPTIMIZED FOR 60+ FPS */
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(1.05); }
+}
+
+@keyframes bounce {
+  0%, 20%, 53%, 80%, 100% { transform: translate3d(0,0,0); }
+  40%, 43% { transform: translate3d(0,-15px,0); }
+  70% { transform: translate3d(0,-7px,0); }
+  90% { transform: translate3d(0,-2px,0); }
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes ping {
+  75%, 100% { 
+    transform: scale(2); 
+    opacity: 0; 
+  }
+}
+
+@keyframes spark {
+  0% { opacity: 0; transform: scale(0); }
+  50% { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(1.2); }
+}
+
+@keyframes glow {
+  0%, 100% { 
+    text-shadow: 0 0 10px currentColor;
+    filter: brightness(1);
+  }
+  50% { 
+    text-shadow: 0 0 20px currentColor, 0 0 30px currentColor;
+    filter: brightness(1.1);
+  }
+}
+
+/* 💨 INSTANT PERFORMANCE UTILITIES */
+.animate-pulse { animation: pulse 2s ease-in-out infinite; }
+.animate-bounce { animation: bounce 1s infinite; }
+.animate-spin-slow { animation: spin-slow 3s linear infinite; }
+.animate-ping { animation: ping 1s ease-in-out infinite; }
+.animate-glow { animation: glow 2s ease-in-out infinite; }
+
+/* 🔧 GPU ACCELERATION FOR MAXIMUM SPEED */
+.gpu-accelerated {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+/* 🚀 OPTIMIZED SCROLLBAR */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(34, 211, 238, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(34, 211, 238, 0.5);
+}
+
+/* 🎯 INSTANT HOVER EFFECTS */
+.instant-hover {
+  transition: all 0.1s ease-out !important;
+}
+
+/* 🔥 ULTRA-FAST GLASSMORPHISM */
+.glass-ultra {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+}
+
+/* ⚡ INSTANT SECTION RENDERING */
+section {
+  contain: layout style;
+  will-change: transform, opacity;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* 🌟 OPTIMIZED GRADIENT TEXT */
+.gradient-text {
+  background: linear-gradient(45deg, #00ffff, #8b2be2, #00ff00);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient-shift 3s ease infinite;
+}
+
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* 💫 MAGICAL CURSOR EFFECTS */
+.cursor-glow {
+  background: radial-gradient(circle, rgba(34, 211, 238, 0.1) 0%, transparent 70%);
+  border: 1px solid rgba(34, 211, 238, 0.2);
+  border-radius: 50%;
+  transition: all 0.1s ease;
+}
+
+/* 🧠 CONSCIOUSNESS EFFECTS */
+.consciousness-pulse {
+  animation: pulse 3s ease-in-out infinite;
+  filter: drop-shadow(0 0 20px rgba(34, 211, 238, 0.5));
+}
+
+/* ⚡ PERFORMANCE MODE - DISABLE HEAVY EFFECTS ON LOW-END DEVICES */
+@media (max-width: 768px) {
+  .heavy-effects {
+    display: none !important;
+  }
+  
+  .neural-mesh,
+  .particle-system,
+  .complex-animations {
+    display: none !important;
+  }
+}
+
+/* 🔋 BATTERY OPTIMIZATION */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+  
+  .magical-effects {
+    display: none !important;
+  }
+}
+
+/* 💎 ULTIMATE PERFORMANCE OVERRIDES */
+.ultra-performance * {
+  animation-duration: 0.1s !important;
+  transition-duration: 0.1s !important;
+}
+
+/* 🚀 INSTANT LOADING OPTIMIZATIONS */
+.instant-load {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+/* 🌈 OPTIMIZED COLOR SCHEMES */
+:root {
+  --cyan: #00ffff;
+  --purple: #8b2be2;
+  --green: #00ff00;
+  --pink: #ff00ff;
+  --blue: #0066ff;
+}
+
+/* 🎭 NEURAL CARD OPTIMIZED */
+.neural-card {
+  background: rgba(0, 255, 255, 0.05);
+  border: 1px solid rgba(0, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 1.5rem;
+  backdrop-filter: blur(5px);
+  transition: all 0.2s ease;
+  transform: translateZ(0);
+}
+
+.neural-card:hover {
+  background: rgba(0, 255, 255, 0.1);
+  border-color: rgba(0, 255, 255, 0.4);
+  transform: translateZ(0) translateY(-2px);
+  box-shadow: 0 10px 30px rgba(0, 255, 255, 0.2);
+}
+
+/* 🔥 CYBER BUTTON OPTIMIZED */
+.cyber-button {
+  background: transparent;
+  border: 2px solid var(--cyan);
+  color: var(--cyan);
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  transform: translateZ(0);
+}
+
+.cyber-button:hover {
+  background: var(--cyan);
+  color: #000;
+  box-shadow: 0 8px 25px rgba(0, 255, 255, 0.3);
+  transform: translateZ(0) scale(1.05);
+}
+
+/* 🌌 MAGICAL BACKGROUND OPTIMIZED */
+.magic-bg {
+  background: 
+    radial-gradient(circle at 20% 20%, rgba(0, 255, 255, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(139, 43, 226, 0.1) 0%, transparent 50%),
+    linear-gradient(135deg, #000000 0%, #0a0a0f 100%);
+}
+
+/* 🚀 FINAL PERFORMANCE BOOST */
+.mind-universe {
+  contain: layout style paint;
+  will-change: auto;
+  overflow-x: hidden;
+}
+
+/* ⚡ INSTANT MODE FOR MAXIMUM SPEED */
+.instant-mode {
+  transition: none !important;
+  animation: none !important;
+  filter: none !important;
+  backdrop-filter: none !important;
+}
+
+.instant-mode * {
+  transition: none !important;
+  animation-duration: 0s !important;
+}
+
+/* 💯 FORCE 60+ FPS */
+@media (min-width: 1024px) {
+  .high-performance {
+    will-change: transform, opacity;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+  }
+}
+
+/* 🎯 TEXT OPTIMIZATION */
+.optimized-text {
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 🌟 FINAL MAGIC TOUCHES */
+.living-text {
+  background: linear-gradient(45deg, var(--cyan), var(--purple), var(--green));
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient-shift 2s ease infinite;
+}
+
+.neural-glow {
+  text-shadow: 0 0 10px currentColor;
+  filter: drop-shadow(0 0 5px currentColor);
+}
+
+/* 🔥 RESPONSIVE OPTIMIZATIONS */
+@media (max-width: 640px) {
+  .mobile-optimized {
+    animation: none !important;
+    backdrop-filter: none !important;
+    filter: none !important;
+  }
+}
+
+/* 🚀 ULTIMATE SPEED OPTIMIZATION */
+.blazing-fast {
+  animation-duration: 0.01ms !important;
+  transition-duration: 0.01ms !important;
+}
+
+.blazing-fast * {
+  animation-duration: 0.01ms !important;
+  transition-duration: 0.01ms !important;
+}

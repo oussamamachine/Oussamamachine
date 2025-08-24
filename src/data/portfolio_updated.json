@@ -1,0 +1,220 @@
+{
+  "hero": {
+    "title": "OUSSAMA MACHINE",
+    "subtitle": "Fullstack Developer | AI Enthusiast | Blockchain Explorer",
+    "description": "From Rabat, Morocco - Building the future with code, exploring AI possibilities, and diving into blockchain innovation.",
+    "cta": "Explore My Journey"
+  },
+  "timeline": [
+    {
+      "year": "2024",
+      "phase": "The Beginning",
+      "description": "Starting my journey as a fullstack developer, learning the fundamentals of web development",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "status": "completed"
+    },
+    {
+      "year": "2024",
+      "phase": "Frontend Mastery",
+      "description": "Diving deep into React and modern frontend development",
+      "technologies": ["React", "Tailwind CSS", "TypeScript"],
+      "status": "active"
+    },
+    {
+      "year": "2024",
+      "phase": "Backend Discovery",
+      "description": "Exploring server-side development and APIs",
+      "technologies": ["Node.js", "Express", "Databases"],
+      "status": "active"
+    },
+    {
+      "year": "2025",
+      "phase": "AI Integration",
+      "description": "Merging artificial intelligence with web development",
+      "technologies": ["Python", "AI APIs", "Machine Learning"],
+      "status": "future"
+    },
+    {
+      "year": "2025",
+      "phase": "Blockchain Innovation",
+      "description": "Building decentralized applications and exploring Web3",
+      "technologies": ["Solidity", "Web3.js", "Smart Contracts"],
+      "status": "future"
+    }
+  ],
+  "mindMap": {
+    "projects": [
+      {
+        "id": "portfolio-website",
+        "title": "Neural Portfolio",
+        "description": "This very portfolio - a React-based showcase with neural consciousness theme",
+        "technologies": ["React", "Tailwind CSS", "Framer Motion"],
+        "status": "active"
+      },
+      {
+        "id": "coming-soon-1",
+        "title": "AI Project (Coming Soon)",
+        "description": "Exciting AI project in development - details to be revealed",
+        "technologies": ["Python", "AI/ML", "APIs"],
+        "status": "future"
+      },
+      {
+        "id": "coming-soon-2",
+        "title": "Blockchain Dapp (Coming Soon)",
+        "description": "Decentralized application exploring Web3 possibilities",
+        "technologies": ["Solidity", "Web3.js", "React"],
+        "status": "future"
+      }
+    ],
+    "skills": [
+      {
+        "category": "Frontend",
+        "items": ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"]
+      },
+      {
+        "category": "Backend",
+        "items": ["Node.js", "Express", "RESTful APIs", "Databases"]
+      },
+      {
+        "category": "Learning",
+        "items": ["Python", "AI/ML", "Blockchain", "TypeScript", "Next.js"]
+      },
+      {
+        "category": "Interests",
+        "items": ["Artificial Intelligence", "Blockchain", "Web3", "Innovation"]
+      }
+    ],
+    "failures": [
+      {
+        "title": "The Learning Journey",
+        "lesson": "Every expert was once a beginner",
+        "year": "2024",
+        "impact": "Embracing the beginner's mindset and learning continuously"
+      },
+      {
+        "title": "The Perfectionist Trap",
+        "lesson": "Done is better than perfect",
+        "year": "2024",
+        "impact": "Learning to ship projects and iterate based on feedback"
+      },
+      {
+        "title": "Tutorial Hell",
+        "lesson": "Building projects is more valuable than watching tutorials",
+        "year": "2024",
+        "impact": "Shifted focus from consuming content to creating projects"
+      }
+    ],
+    "values": [
+      {
+        "title": "Continuous Learning",
+        "description": "Every day is an opportunity to learn something new in tech"
+      },
+      {
+        "title": "Innovation",
+        "description": "Exploring AI and blockchain to build tomorrow's solutions"
+      },
+      {
+        "title": "Community",
+        "description": "Growing alongside fellow developers from Morocco and beyond"
+      },
+      {
+        "title": "Authenticity",
+        "description": "Real experiences, real learning, real growth"
+      }
+    ]
+  },
+  "about": {
+    "name": "Oussama Machine",
+    "role": "Fullstack Developer",
+    "location": "Rabat, Morocco",
+    "bio": "Passionate fullstack developer from Rabat, Morocco, with a deep interest in AI and blockchain technologies. Currently building my expertise in modern web development while exploring the exciting possibilities of artificial intelligence and decentralized applications.",
+    "interests": ["AI/Machine Learning", "Blockchain & Web3", "Fullstack Development", "Innovation", "Technology"],
+    "contact": {
+      "email": "oussama.machine@example.com",
+      "github": "https://github.com/oussamachine",
+      "linkedin": "https://linkedin.com/in/oussamachine"
+    },
+    "experience": "Emerging Developer",
+    "projects": "Building portfolio and exploring AI/Blockchain projects",
+    "skills": "Frontend: React, JavaScript, HTML, CSS. Backend: Node.js, Express. Learning: Python, AI/ML, Blockchain development."
+  },
+  "chatResponses": {
+    "goals": "My goal is to become a fullstack developer who builds innovative solutions using AI and blockchain. I want to create applications that solve real problems and explore the possibilities of emerging technologies.",
+    "experience": "I'm currently learning and building my skills in fullstack development, with particular interest in AI and blockchain technologies. Every project is a learning opportunity.",
+    "projects": "Working on building my portfolio with React applications and exploring AI/blockchain integration. Excited to share my projects as they develop!",
+    "skills": "Frontend: React, JavaScript, HTML, CSS, Tailwind CSS. Backend: Node.js, Express. Currently Learning: Python, AI/ML, Blockchain development, TypeScript.",
+    "philosophy": "I believe in learning by building, embracing failure as growth, and staying curious about new technologies. The journey of a developer is one of constant evolution."
+  },
+  "dnaSkills": {
+    "frontend": {
+      "primary": ["React", "JavaScript", "HTML5"],
+      "secondary": ["TypeScript", "Next.js"],
+      "styling": ["Tailwind CSS", "CSS3", "Responsive Design"],
+      "animation": ["Framer Motion", "CSS Animations"]
+    },
+    "backend": {
+      "languages": ["Node.js", "JavaScript"],
+      "frameworks": ["Express", "RESTful APIs"],
+      "databases": ["MongoDB", "SQL"],
+      "cloud": ["Learning AWS", "Vercel", "Netlify"]
+    },
+    "learning": {
+      "ai_ml": ["Python", "AI APIs", "Machine Learning Basics"],
+      "blockchain": ["Web3 Concepts", "Smart Contracts", "Solidity"],
+      "tools": ["Git", "GitHub", "VS Code", "Postman"]
+    },
+    "interests": {
+      "emerging_tech": ["Artificial Intelligence", "Blockchain", "Web3"],
+      "development": ["Fullstack Development", "Modern JavaScript", "React Ecosystem"],
+      "personal": ["Innovation", "Technology Trends", "Continuous Learning"]
+    }
+  },
+  "neuralNodes": [
+    {
+      "id": "portfolio-neural",
+      "title": "Neural Portfolio",
+      "description": "This consciousness-themed portfolio showcasing my journey",
+      "technologies": ["React", "Tailwind CSS", "Framer Motion"],
+      "status": "active",
+      "type": "showcase"
+    },
+    {
+      "id": "ai-exploration",
+      "title": "AI Exploration",
+      "description": "Learning and experimenting with AI technologies",
+      "technologies": ["Python", "AI APIs", "Machine Learning"],
+      "status": "learning",
+      "type": "learning"
+    },
+    {
+      "id": "blockchain-journey",
+      "title": "Blockchain Journey",
+      "description": "Exploring Web3 and decentralized applications",
+      "technologies": ["Solidity", "Web3.js", "Smart Contracts"],
+      "status": "future",
+      "type": "exploration"
+    }
+  ],
+  "easterEggs": {
+    "konami": {
+      "title": "🎮 Konami Code Activated!",
+      "message": "Greetings, fellow developer! You've unlocked the classic easter egg. Keep exploring!",
+      "reward": "Hidden Developer Console Access"
+    },
+    "moroccan": {
+      "title": "🇲🇦 Moroccan Pride!",
+      "message": "Marhaba! Greetings from the beautiful kingdom of Morocco, from the capital Rabat!",
+      "reward": "Cultural Connection Bonus"
+    },
+    "ai": {
+      "title": "🤖 AI Enthusiast Detected!",
+      "message": "You've found the AI easter egg! The future is intelligent, and we're building it together.",
+      "reward": "AI Knowledge Boost"
+    },
+    "blockchain": {
+      "title": "⛓️ Blockchain Explorer!",
+      "message": "Welcome to the decentralized world! Web3 is the future, and it's being built today.",
+      "reward": "Crypto Wisdom Token"
+    }
+  }
+}

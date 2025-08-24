@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "year": "2018",
+    "title": "Digital Awakening",
+    "description": "First lines of code written. The neural pathways of logic begin to form.",
+    "icon": "brain-spark",
+    "color": "#00ffff",
+    "category": "Foundation"
+  },
+  {
+    "id": 2,
+    "year": "2019",
+    "title": "Frontend Genesis",
+    "description": "React.js mastery unlocked. User interfaces become extensions of thought.",
+    "icon": "react-helix",
+    "color": "#00ff88",
+    "category": "Frontend"
+  },
+  {
+    "id": 3,
+    "year": "2020",
+    "title": "Backend Evolution",
+    "description": "Node.js and Express.js conquered. Server-side consciousness emerges.",
+    "icon": "server-node",
+    "color": "#88ff00",
+    "category": "Backend"
+  },
+  {
+    "id": 4,
+    "year": "2021",
+    "title": "Database Synapses",
+    "description": "MongoDB, MySQL, SQL Server integrated. Data flows like neural transmissions.",
+    "icon": "database-crystal",
+    "color": "#ffff00",
+    "category": "Database"
+  },
+  {
+    "id": 5,
+    "year": "2022",
+    "title": "Enterprise Transcendence",
+    "description": "C#, ASP.NET, ADO.NET mastered. Corporate systems bend to digital will.",
+    "icon": "enterprise-cube",
+    "color": "#ff8800",
+    "category": "Enterprise"
+  },
+  {
+    "id": 6,
+    "year": "2023",
+    "title": "Blockchain Enlightenment",
+    "description": "Solidity and blockchain technologies absorbed. Decentralized consciousness achieved.",
+    "icon": "blockchain-chain",
+    "color": "#ff0088",
+    "category": "Blockchain"
+  },
+  {
+    "id": 7,
+    "year": "2024",
+    "title": "Creative Fusion",
+    "description": "Figma, Blender, Three.js united. Design and development consciousness merge.",
+    "icon": "creative-fusion",
+    "color": "#8800ff",
+    "category": "Creative"
+  },
+  {
+    "id": 8,
+    "year": "2025",
+    "title": "Digital Genesis Complete",
+    "description": "Full-stack consciousness achieved. Ready to shape the digital universe.",
+    "icon": "genesis-crown",
+    "color": "#ff00ff",
+    "category": "Mastery"
+  }
+]

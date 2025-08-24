@@ -1,0 +1,337 @@
+{
+  "personal": {
+    "name": "Oussama",
+    "title": "Full-Stack Developer & AI Engineer",
+    "tagline": "Welcome to OUSSAMA.MIND – The Living Portfolio",
+    "description": "A fusion of cutting-edge technology, creative innovation, and digital consciousness. Explore the intersection of code, art, and human potential.",
+    "email": "hello@oussama.dev",
+    "github": "https://github.com/oussama",
+    "linkedin": "https://linkedin.com/in/oussama",
+    "location": "Available Worldwide",
+    "status": "Open for opportunities"
+  },
+  "skills": {
+    "frontend": [
+      {
+        "name": "React",
+        "level": 95,
+        "color": "#61DAFB"
+      },
+      {
+        "name": "Vue.js",
+        "level": 85,
+        "color": "#4FC08D"
+      },
+      {
+        "name": "Angular",
+        "level": 80,
+        "color": "#DD0031"
+      },
+      {
+        "name": "TypeScript",
+        "level": 90,
+        "color": "#3178C6"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": 95,
+        "color": "#06B6D4"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "level": 90,
+        "color": "#339933"
+      },
+      {
+        "name": "Python",
+        "level": 85,
+        "color": "#3776AB"
+      },
+      {
+        "name": "Java",
+        "level": 80,
+        "color": "#ED8B00"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": 85,
+        "color": "#336791"
+      },
+      {
+        "name": "MongoDB",
+        "level": 80,
+        "color": "#47A248"
+      }
+    ],
+    "3d_graphics": [
+      {
+        "name": "Three.js",
+        "level": 85,
+        "color": "#000000"
+      },
+      {
+        "name": "WebGL",
+        "level": 75,
+        "color": "#990000"
+      },
+      {
+        "name": "Blender",
+        "level": 70,
+        "color": "#F5792A"
+      },
+      {
+        "name": "Unity",
+        "level": 65,
+        "color": "#000000"
+      }
+    ],
+    "ai_ml": [
+      {
+        "name": "TensorFlow",
+        "level": 75,
+        "color": "#FF6F00"
+      },
+      {
+        "name": "PyTorch",
+        "level": 70,
+        "color": "#EE4C22"
+      },
+      {
+        "name": "OpenAI API",
+        "level": 80,
+        "color": "#412991"
+      },
+      {
+        "name": "Computer Vision",
+        "level": 75,
+        "color": "#00C853"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Neural Network Visualizer",
+      "description": "Interactive 3D visualization of neural networks with real-time training animations",
+      "technologies": [
+        "React",
+        "Three.js",
+        "TensorFlow.js",
+        "WebGL"
+      ],
+      "category": "AI/ML",
+      "github": "https://github.com/oussama/neural-viz",
+      "live": "https://neural-viz.oussama.dev",
+      "color": "#FF6B6B",
+      "features": [
+        "Real-time training",
+        "3D network topology",
+        "Interactive parameters",
+        "Export models"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Quantum Portfolio",
+      "description": "Portfolio website with quantum-inspired animations and particle systems",
+      "technologies": [
+        "React",
+        "Framer Motion",
+        "Three.js",
+        "Tailwind CSS"
+      ],
+      "category": "Web Development",
+      "github": "https://github.com/oussama/quantum-portfolio",
+      "live": "https://quantum.oussama.dev",
+      "color": "#4ECDC4",
+      "features": [
+        "Particle systems",
+        "Quantum animations",
+        "Responsive design",
+        "Performance optimized"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AI Code Assistant",
+      "description": "Intelligent code completion and suggestion system using machine learning",
+      "technologies": [
+        "Python",
+        "OpenAI API",
+        "FastAPI",
+        "React"
+      ],
+      "category": "AI/ML",
+      "github": "https://github.com/oussama/ai-assistant",
+      "live": "https://ai-assistant.oussama.dev",
+      "color": "#45B7D1",
+      "features": [
+        "Code completion",
+        "Bug detection",
+        "Refactoring suggestions",
+        "Multi-language support"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "3D Game Engine",
+      "description": "Custom 3D game engine built from scratch with physics and rendering",
+      "technologies": [
+        "C++",
+        "OpenGL",
+        "Bullet Physics",
+        "GLFW"
+      ],
+      "category": "Game Development",
+      "github": "https://github.com/oussama/game-engine",
+      "live": null,
+      "color": "#96CEB4",
+      "features": [
+        "Custom renderer",
+        "Physics engine",
+        "Scene graph",
+        "Asset pipeline"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Blockchain Explorer",
+      "description": "Real-time blockchain data visualization and analytics platform",
+      "technologies": [
+        "React",
+        "Node.js",
+        "WebSocket",
+        "D3.js"
+      ],
+      "category": "Blockchain",
+      "github": "https://github.com/oussama/blockchain-explorer",
+      "live": "https://explorer.oussama.dev",
+      "color": "#FFEAA7",
+      "features": [
+        "Real-time data",
+        "Interactive charts",
+        "Multi-chain support",
+        "API endpoints"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Virtual Reality Experience",
+      "description": "Immersive VR application for architectural visualization and design",
+      "technologies": [
+        "Unity",
+        "C#",
+        "Oculus SDK",
+        "Blender"
+      ],
+      "category": "VR/AR",
+      "github": "https://github.com/oussama/vr-architect",
+      "live": null,
+      "color": "#DDA0DD",
+      "features": [
+        "VR navigation",
+        "3D modeling",
+        "Collaborative design",
+        "Export capabilities"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "year": "2024",
+      "title": "Senior Full-Stack Developer",
+      "company": "TechCorp Innovations",
+      "description": "Leading development of cutting-edge AI-powered applications, mentoring junior developers, and architecting scalable solutions.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Python",
+        "AI/ML",
+        "AWS"
+      ],
+      "achievements": [
+        "Reduced API response time by 60%",
+        "Implemented CI/CD pipeline",
+        "Led team of 8 developers"
+      ],
+      "color": "#00F5FF"
+    },
+    {
+      "id": 2,
+      "year": "2023",
+      "title": "AI Research Engineer",
+      "company": "Neural Dynamics Lab",
+      "description": "Researching and developing next-generation neural network architectures for computer vision applications.",
+      "technologies": [
+        "PyTorch",
+        "TensorFlow",
+        "Python",
+        "CUDA",
+        "OpenCV"
+      ],
+      "achievements": [
+        "Published 3 research papers",
+        "Developed novel CNN architecture",
+        "Improved accuracy by 15%"
+      ],
+      "color": "#8B5CF6"
+    },
+    {
+      "id": 3,
+      "year": "2022",
+      "title": "Frontend Developer",
+      "company": "Digital Creations Studio",
+      "description": "Creating immersive web experiences with modern frontend technologies and 3D graphics.",
+      "technologies": [
+        "React",
+        "Three.js",
+        "WebGL",
+        "TypeScript",
+        "Framer Motion"
+      ],
+      "achievements": [
+        "Built 10+ interactive websites",
+        "Optimized performance by 40%",
+        "Implemented 3D visualizations"
+      ],
+      "color": "#00FF00"
+    },
+    {
+      "id": 4,
+      "year": "2021",
+      "title": "Software Engineer Intern",
+      "company": "Startup Ventures",
+      "description": "Full-stack development of web applications and mobile apps using modern technologies.",
+      "technologies": [
+        "React Native",
+        "Node.js",
+        "MongoDB",
+        "Firebase",
+        "Git"
+      ],
+      "achievements": [
+        "Developed 5 mobile apps",
+        "Improved user engagement by 25%",
+        "Reduced bug reports by 30%"
+      ],
+      "color": "#FF6B6B"
+    }
+  ],
+  "easter_eggs": {
+    "konami": {
+      "description": "Matrix rain effect",
+      "trigger": "↑↑↓↓←→←→BA"
+    },
+    "secret": {
+      "description": "Particle explosion",
+      "trigger": "5 rapid clicks anywhere"
+    },
+    "glitch": {
+      "description": "Reality glitch effect",
+      "trigger": "Ctrl+G"
+    }
+  }
+}
