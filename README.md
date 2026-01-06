@@ -1,252 +1,74 @@
-# 🚀 OUSSAMA.MIND - The Living Portfolio
+# Oussama Machine
 
-Welcome to the most immersive and futuristic portfolio in the world! This is not just a portfolio - it's a living, breathing digital consciousness that showcases the intersection of technology, creativity, and human potential.
+Full-Stack Engineer specializing in scalable web applications, blockchain solutions, and immersive 3D experiences.   
+I build production-grade systems that solve real problems.
 
-## ✨ Features
+## Current Focus
 
-### 🌟 Immersive 3D Experience
-- **Floating 3D Background**: Interactive geometric shapes with smooth animations
-- **DNA Strand Visualizations**: Skills represented as living DNA strands
-- **Interactive 3D Brain**: Hover to highlight different skills and neural pathways
-- **3D Project Cards**: Each project displayed as an interactive 3D element
-- **Timeline Visualization**: Professional journey as animated 3D timeline
+Architecting full-stack applications with modern web technologies, exploring decentralized systems, and creating interactive 3D experiences.  Focused on performance optimization, clean architecture, and production-ready code.
 
-### 🎭 Cinematic Animations
-- **Framer Motion**: Smooth, professional animations throughout
-- **Scroll-Triggered Effects**: Elements animate as they come into view
-- **Hover Interactions**: Micro-animations that respond to user input
-- **Parallax Scrolling**: Depth and dimension in the user experience
+## Technical Stack
 
-### 🎨 Futuristic Design
-- **Cyber/Futuristic Theme**: Neon colors, glowing effects, and modern aesthetics
-- **Dark/Light Mode Toggle**: Seamless theme switching with smooth transitions
-- **Responsive Design**: Optimized for desktop, tablet, and mobile
-- **Glassmorphism Effects**: Modern UI with backdrop blur and transparency
+**Frontend & 3D**  
+React · Next.js · TypeScript · Tailwind CSS · Three.js · Framer Motion · WebGL · Blender
 
-### 🤖 AI Integration
-- **Interactive AI Terminal**: Ask questions about skills, projects, and experience
-- **Smart Responses**: Context-aware AI that provides relevant information
-- **Quick Actions**: Pre-built queries for common questions
-- **Natural Language Processing**: Understands various ways to ask questions
+**Backend & APIs**  
+Node.js · Express · ASP.NET · C# · Java · RESTful APIs · GraphQL · Microservices
 
-### 🥚 Easter Egg System
-- **Konami Code**: Up, Up, Down, Down, Left, Right, Left, Right, B, A
-- **Hidden Triggers**: Rapid clicking, keyboard shortcuts, and more
-- **Special Effects**: Matrix rain, particle explosions, and glitch effects
-- **Achievement System**: Track discovered easter eggs
+**Databases**  
+MongoDB · PostgreSQL · SQL Server · Redis
 
-### 📱 Performance Optimized
-- **Lazy Loading**: 3D models and components load on demand
-- **Suspense Boundaries**: Smooth loading states for better UX
-- **GPU Acceleration**: Hardware-accelerated animations and 3D rendering
-- **Responsive Images**: Optimized assets for different screen sizes
+**Blockchain & Web3**  
+Solidity · Smart Contracts · Web3.js · Ethereum · DApp Development
 
-## 🛠️ Technology Stack
+**Cloud & DevOps**  
+AWS (Lambda, S3, EC2) · Docker · Kubernetes · CI/CD · GitHub Actions · Vercel
 
-- **Frontend**: React 18 + Create React App
-- **Styling**: Tailwind CSS with custom cyber theme
-- **3D Graphics**: Three.js + React Three Fiber + Drei
-- **Animations**: Framer Motion
-- **Performance**: React Suspense + Lazy Loading
-- **Fonts**: Orbitron (cyber), Fira Code (monospace)
+**AI & Automation**  
+OpenAI API · LangChain · Prompt Engineering · AI Workflow Automation
 
-## 🚀 Getting Started
+## Featured Projects
 
-### Prerequisites
-- Node.js 16+ 
-- npm or yarn
-- Modern browser with WebGL support
+### [QR Menu & Order Management System](https://github.com/oussamamachine/resto-menu-app)
+Enterprise-grade restaurant ordering platform with real-time order tracking, QR menu generation, and admin dashboard.  
+**Tech:** React · Express · MongoDB · Socket.IO · Redis  
+**Highlights:** Real-time synchronization, multi-restaurant support, payment integration, analytics dashboard
 
-### Installation
+### [AI-Powered Educational Platform](https://github.com/oussamamachine/Tawjihy.ai)
+Intelligent course guidance system with AI-driven recommendations and Dockerized microservices architecture.  
+**Tech:** Node.js · Docker · PostgreSQL · AI Integration · REST API  
+**Highlights:** Containerized deployment, scalable architecture, advanced prompt engineering
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/oussama.mind.git
-   cd oussama.mind
-   ```
+### [3D Interactive Portfolio](https://github.com/oussamamachine/Oussamamachinee)
+High-performance portfolio with Three.js 3D scenes, GSAP animations, and PWA capabilities.  Lighthouse score: 95+  
+**Tech:** React · Three.js · GSAP · WebGL · PWA  
+**Highlights:** Custom Blender 3D models, smooth animations, WCAG 2.1 AA accessibility compliance
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
+### Blockchain DApp Suite *(In Development)*
+Decentralized application ecosystem featuring smart contracts, NFT marketplace, and DeFi protocols.  
+**Tech:** Solidity · Web3.js · React · Ethereum · IPFS
 
-3. **Start the development server**
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
+## Open to Opportunities
 
-4. **Open your browser**
-   Navigate to `http://localhost:3000`
+Actively seeking full-stack engineering roles, contract work, and technical consulting opportunities where I can architect impactful solutions. 
 
-### Building for Production
-
-```bash
-npm run build
-# or
-yarn build
-```
-
-## 🎮 How to Use
-
-### Navigation
-- **Floating Navigation**: Minimal navigation that follows scroll
-- **Smooth Scrolling**: Click navigation items for smooth section transitions
-- **Scroll Progress**: Visual indicator on the right side
-- **Theme Toggle**: Switch between dark and light modes
-
-### AI Terminal
-- **Access**: Click the AI icon in the navigation
-- **Ask Questions**: Type natural language questions about the portfolio
-- **Quick Actions**: Use pre-built buttons for common queries
-- **Examples**:
-  - "Tell me about your skills"
-  - "What projects have you built?"
-  - "How can I contact you?"
-
-### Easter Eggs
-- **Konami Code**: ↑↑↓↓←→←→BA
-- **Rapid Clicks**: Click anywhere 5 times quickly
-- **Keyboard Shortcuts**: Ctrl+G for glitch effect
-- **Hidden Elements**: Look for subtle interactive elements
-
-## 🎨 Customization
-
-### Colors
-The portfolio uses a custom cyber color palette defined in `tailwind.config.js`:
-
-```javascript
-colors: {
-  'cyber-blue': '#00F5FF',
-  'cyber-purple': '#8B5CF6',
-  'matrix-green': '#00FF00',
-  'neural-dark': '#0A0A0A',
-  'neural-darker': '#050505',
-  'neural-glow': '#1E1E1E',
-}
-```
-
-### Fonts
-- **Cyber Font**: Orbitron for headings and special text
-- **Monospace**: Fira Code for code and technical content
-
-### Animations
-Custom animations are defined in the Tailwind config and can be modified:
-
-```javascript
-animation: {
-  'glow': 'glow 2s ease-in-out infinite alternate',
-  'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
-  'float': 'float 3s ease-in-out infinite',
-  'glitch': 'glitch 0.3s ease-in-out infinite',
-}
-```
-
-## 📁 Project Structure
-
-```
-src/
-├── components/          # React components
-│   ├── Hero.jsx        # Landing page with 3D intro
-│   ├── Navigation.jsx  # Floating navigation
-│   ├── About.jsx       # About section with 3D brain
-│   ├── Skills.jsx      # Skills with DNA visualization
-│   ├── Projects.jsx    # Projects with 3D cards
-│   ├── Experience.jsx  # Timeline with 3D elements
-│   ├── Contact.jsx     # Contact form with portal
-│   ├── AITerminal.jsx  # AI assistant interface
-│   └── EasterEggSystem.jsx # Hidden features
-├── App.js              # Main application component
-├── index.css           # Global styles and animations
-└── index.js            # Application entry point
-```
-
-## 🔧 Configuration
-
-### Tailwind CSS
-The project uses a heavily customized Tailwind configuration with:
-- Custom color palette
-- Custom animations and keyframes
-- Custom font families
-- Responsive breakpoints
-
-### Three.js Settings
-3D rendering is optimized for performance:
-- Adaptive quality based on device performance
-- Lazy loading of 3D models
-- Optimized lighting and materials
-
-## 📱 Responsive Design
-
-The portfolio is fully responsive with:
-- **Mobile First**: Designed for mobile devices first
-- **Tablet Optimized**: Special layouts for medium screens
-- **Desktop Enhanced**: Full 3D experience on larger screens
-- **Touch Friendly**: Optimized for touch interactions
-
-## 🚀 Performance Tips
-
-1. **3D Rendering**: Lower-end devices automatically reduce 3D complexity
-2. **Image Optimization**: Use WebP format for better compression
-3. **Lazy Loading**: Components load only when needed
-4. **Animation Optimization**: Respects user's motion preferences
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **3D Not Rendering**
-   - Check WebGL support in your browser
-   - Update graphics drivers
-   - Try disabling hardware acceleration
-
-2. **Animations Not Working**
-   - Ensure JavaScript is enabled
-   - Check for console errors
-   - Verify Framer Motion installation
-
-3. **Performance Issues**
-   - Close other browser tabs
-   - Reduce browser zoom level
-   - Check device performance settings
-
-### Browser Support
-- **Chrome**: 90+ (Recommended)
-- **Firefox**: 88+
-- **Safari**: 14+
-- **Edge**: 90+
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### Development Guidelines
-1. Follow the existing code style
-2. Add appropriate animations and interactions
-3. Ensure responsive design
-4. Test on multiple devices
-5. Optimize for performance
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Three.js Community**: For amazing 3D graphics library
-- **Framer Motion**: For smooth animations
-- **Tailwind CSS**: For utility-first styling
-- **React Community**: For the amazing framework
-
-## 📞 Contact
-
-- **Portfolio**: [oussama.dev](https://oussama.dev)
-- **Email**: hello@oussama.dev
-- **GitHub**: [@oussama](https://github.com/oussama)
+📧 **Email:** oussamamachine124@gmail.com  
+💼 **LinkedIn:** [Oussama Machine](https://linkedin.com/in/oussama-machine)
 
 ---
 
-**Welcome to the future of portfolios. Welcome to OUSSAMA.MIND.** 🚀✨
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussamamachine&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamamachine&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oussamamachine&theme=radical&hide_border=true)
+
+---
+
+**"Code is poetry written in logic"**
+
+<sub>All projects follow industry best practices with emphasis on clean code, performance optimization, and maintainable architecture.</sub>
+
+</div>
