@@ -60,7 +60,7 @@ Solidity · Web3.js · Ethereum · Smart Contracts · NFT Development
 
 **Tools & DevOps**
 ```
-Docker · Git · GitHub · Postman · VS Code · Linux
+Docker · Git · GitHub · Postman · VS Code · Linux · AWS
 ```
 
 ---
