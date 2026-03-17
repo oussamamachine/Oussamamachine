@@ -11,7 +11,7 @@
 
 ### Full-Stack Developer · AI Tools · Web3 · SaaS · 3D Experiences
 
-*I don't just write code — I engineer systems that solve real problems.*
+*I don't just write code  I engineer systems that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-machine-200a48237/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamamachine124@mail.com)
@@ -23,9 +23,9 @@
 
 ## `$ whoami`
 
-Computer Science graduate building production-grade applications across the full stack — from React interfaces with WebGL depth, to backend systems, AI-powered platforms, workflow automation, and on-chain smart contracts.
+Computer Science graduate building production-grade applications across the full stack  from React interfaces with WebGL depth, to backend systems, AI-powered platforms, workflow automation, and on-chain smart contracts.
 
-My work sits at the intersection of **AI**, **automation**, **SaaS**, and **Web3**. I build tools that are functional, scalable, and designed with real users in mind — including n8n-based pipelines that replace manual processes with intelligent, self-running workflows.
+My work sits at the intersection of **AI**, **automation**, **SaaS**, and **Web3**. I build tools that are functional, scalable, and designed with real users in mind  including n8n-based pipelines that replace manual processes with intelligent, self-running workflows.
 
 Currently looking for an **Ausbildung** in Germany or the DACH region. My German is at **B2 level** and I use it actively every day.
 
@@ -77,7 +77,7 @@ A web-based career platform that uses AI to generate tailored CVs and cover lett
 ### 📬 AI Inbox Automation
 > n8n · Node.js · MongoDB · React · AI APIs
 
-An intelligent inbox system that reads, categorizes, and drafts replies to incoming messages using AI — with a human-in-the-loop layer for review. Designed for teams that need to move fast without losing control.
+An intelligent inbox system that reads, categorizes, and drafts replies to incoming messages using AI  with a human-in-the-loop layer for review. Designed for teams that need to move fast without losing control.
 
 ---
 
@@ -98,21 +98,21 @@ A full NFT marketplace where users can mint, buy, and trade digital assets. Inte
 ### ⚙️ n8n Automation Workflows
 > n8n · Webhooks · REST APIs · AI Integrations · MongoDB
 
-A collection of production automation workflows built with n8n — connecting APIs, processing data, triggering AI actions, and replacing repetitive manual tasks with reliable pipelines. From lead capture to email triage to scheduled reporting, built to run without supervision.
+A collection of production automation workflows built with n8n  connecting APIs, processing data, triggering AI actions, and replacing repetitive manual tasks with reliable pipelines. From lead capture to email triage to scheduled reporting, built to run without supervision.
 
 ---
 
 ### 📚 Bibliotheksverwaltungssystem
 > ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap
 
-A library management web app handling books, loans, and user accounts. Covers the full MVC pattern, relational database design, CRUD operations with EF Core, and authentication — built to German project standards.
+A library management web app handling books, loans, and user accounts. Covers the full MVC pattern, relational database design, CRUD operations with EF Core, and authentication  built to German project standards.
 
 ---
 
 ## `$ cat ./current-focus`
 
 - Actively seeking an **Ausbildung** in software development in Germany / DACH region
-- Expanding n8n automation skills — building more complex multi-step AI agent workflows
+- Expanding n8n automation skills  building more complex multi-step AI agent workflows
 - Deepening system design knowledge for scalable SaaS architectures
 - Advancing German to C1 for a fully professional working environment
 
@@ -120,7 +120,7 @@ A library management web app handling books, loans, and user accounts. Covers th
 
 ## `$ cat ./vision`
 
-An Ausbildung in Germany is the next concrete step — structured training, real projects, and integration into a professional environment where quality is a standard, not an afterthought. The German-speaking tech ecosystem fits how I work: methodical, documented, and built to last.
+An Ausbildung in Germany is the next concrete step  structured training, real projects, and integration into a professional environment where quality is a standard, not an afterthought. The German-speaking tech ecosystem fits how I work: methodical, documented, and built to last.
 
 After the Ausbildung: grow into a senior engineering role, contribute to meaningful open source, and eventually lead a team that ships things worth shipping.
 
@@ -142,7 +142,7 @@ After the Ausbildung: grow into a senior engineering role, contribute to meaning
 
 ## `$ contact --open`
 
-I'm actively looking for an **Ausbildung zum Fachinformatiker für Anwendungsentwicklung** in Deutschland. If your company trains developers and values people who show up prepared — let's talk.
+I'm actively looking for an **Ausbildung zum Fachinformatiker für Anwendungsentwicklung** in Deutschland. If your company trains developers and values people who show up prepared  let's talk.
 
 | Channel | Link |
 |---|---|
