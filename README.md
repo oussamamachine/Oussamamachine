@@ -14,7 +14,7 @@
 *I don't just write code  I engineer systems that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-machine-200a48237/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamamachine124@mail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamamachine124@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oussamamachine)
 
 </div>
@@ -146,7 +146,7 @@ I'm actively looking for an **Ausbildung zum Fachinformatiker für Anwendungsent
 
 | Channel | Link |
 |---|---|
-| 📧 Email | oussamamachine124@mail.com |
+| 📧 Email | oussamamachine124@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/oussama-machine](https://www.linkedin.com/in/oussama-machine-200a48237/) |
 | 🐙 GitHub | [github.com/oussamamachine](https://github.com/oussamamachine) |
 
